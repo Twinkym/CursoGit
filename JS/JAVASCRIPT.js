@@ -1,6 +1,7 @@
 // JavaScript Document
 
-function Saludo() {
+function saludo() {
 	
 	alert ("Hola mundo");
+
 }
